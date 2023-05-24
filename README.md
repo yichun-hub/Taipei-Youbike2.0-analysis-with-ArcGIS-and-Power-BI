@@ -2,4 +2,4 @@
 An interactive Power BI report analyze rental amount of Taipei Youbike 2.0.    
 An ArcGIS interact map is also included in the report.    
 
-The detail is describe in Medium.
+The detail information is described in Medium.
